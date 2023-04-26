@@ -9,8 +9,8 @@ function setup() {
   bubbleList = [];
   circleList = [];
   triangleList = [];
-  spriteWidth = 50;
-  spawnDelay = 90;
+  spriteWidth =20;
+  spawnDelay = 100;
   framesDelayed = 0;
 
   //bubbles/particles
